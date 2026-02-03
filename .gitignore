@@ -1,0 +1,41 @@
+# =========================
+# Model weights & outputs(용량)
+# =========================
+*.safetensors
+*.bin
+*.pt
+*.ckpt
+
+base_model/
+baseline_submit/
+outputs/
+submit.zip
+
+# tokenizer / vocab
+**/tokenizer.json
+**/vocab.json
+**/merges.txt
+
+# =========================
+# Python (캐시)
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# virtual environments
+.venv/
+venv/
+
+# =========================
+# Notebooks(백업)
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
