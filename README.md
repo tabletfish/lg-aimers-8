@@ -11,7 +11,7 @@
 lg-aimers-4
 ├─ README.md                 # 프로젝트 전체 설명 (공용)
 ├─ .gitignore            
-├─ member01/  # 👥 팀원별 작업 로그/메모
+├─ member01/                 # 👥 팀원별 작업 로그/메모
    └─ README.md
 ├─ member02/
    └─ README.md
