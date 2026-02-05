@@ -9,9 +9,9 @@
 파일 형식 점차 추가하기!
 ```text
 lg-aimers-4
-├─ README.md                 # 프로젝트 전체 설명 (공용)
+├─ README.md                
 ├─ .gitignore            
-├─ member01/                 # 👥 팀원별 작업 로그/메모
+├─ member01/               
    └─ README.md
 ├─ member02/
    └─ README.md
